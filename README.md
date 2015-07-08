@@ -25,4 +25,5 @@ ios course - https://www.youtube.com/watch?v=Vp15up9RXOs&list=PLcX0opNQliFl0RTGb
 ## useful stuff to read
 
 https://msdn.microsoft.com/en-us/library/ms978509.aspx
+http://www.hanselman.com/blog/VSRefactoringEssentialsFormerlyNR6PackFreeAnalyzersAndRefactoringForVisualStudio2015.aspx
 
