@@ -20,3 +20,9 @@ cross plat asp.net https://vimeo.com/channels/932977/131191236
 
 
 ios course - https://www.youtube.com/watch?v=Vp15up9RXOs&list=PLcX0opNQliFl0RTGbY9HHWCFg0Q8_fIF4
+
+
+## useful stuff to read
+
+https://msdn.microsoft.com/en-us/library/ms978509.aspx
+
