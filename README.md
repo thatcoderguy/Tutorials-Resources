@@ -25,5 +25,11 @@ ios course - https://www.youtube.com/watch?v=Vp15up9RXOs&list=PLcX0opNQliFl0RTGb
 ## useful stuff to read
 
 https://msdn.microsoft.com/en-us/library/ms978509.aspx
+
+cqrs - https://msdn.microsoft.com/en-us/library/jj554200.aspx
+
+domain driven design - https://en.wikipedia.org/wiki/Domain-driven_design ,  http://shop.oreilly.com/product/9781118714706.do
+
+
 http://www.hanselman.com/blog/VSRefactoringEssentialsFormerlyNR6PackFreeAnalyzersAndRefactoringForVisualStudio2015.aspx
 
