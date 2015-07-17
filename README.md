@@ -33,3 +33,5 @@ domain driven design - https://en.wikipedia.org/wiki/Domain-driven_design ,  htt
 
 http://www.hanselman.com/blog/VSRefactoringEssentialsFormerlyNR6PackFreeAnalyzersAndRefactoringForVisualStudio2015.aspx
 
+awesome MVC tutorial - https://mvcmusicstore.codeplex.com/
+
